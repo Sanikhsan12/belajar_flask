@@ -1,0 +1,11 @@
+html {
+  position: relative;
+}
+.nama {
+  display: flex;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
